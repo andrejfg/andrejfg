@@ -17,7 +17,7 @@ Hello, I'm André Felipe, a passionate FullStack Node.js developer who loves cre
 ```javascript
 const skills = {
   languages: ['JavaScript', 'TypeScript', 'Python', 'Java', 'Kotlin', 'C++'],
-  backend: ['Node.js', 'Express', 'Fastify', 'Nest', 'Bun', 'Django', 'Flask', 'SpringBoot'],
+  backend: ['Node.js','Elysia', 'Express', 'Fastify', 'Nest', 'Bun', 'Django', 'Flask', 'SpringBoot'],
   frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'TailwindCSS', 'SASS'],
   mobile: ['React Native', 'Expo'],
   databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
