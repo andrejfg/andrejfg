@@ -10,7 +10,7 @@ Hello, I'm André Felipe, a passionate FullStack Node.js developer who loves cre
 - 🌐 Building responsive web applications with React
 
 ## Git Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrejfg&show_icons=true&count_private=true&hide=issues&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrejfg&theme=dark&hide_border=false)
 
 ## Skills
 
